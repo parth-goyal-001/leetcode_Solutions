@@ -6,6 +6,7 @@ Try to solve leetcode
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/parth-goyal-001/leetcode_Solutions/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/parth-goyal-001/leetcode_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0169-majority-element](https://github.com/parth-goyal-001/leetcode_Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/parth-goyal-001/leetcode_Solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/parth-goyal-001/leetcode_Solutions/tree/master/0238-product-of-array-except-self) |
@@ -31,6 +32,7 @@ Try to solve leetcode
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/parth-goyal-001/leetcode_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0283-move-zeroes](https://github.com/parth-goyal-001/leetcode_Solutions/tree/master/0283-move-zeroes) |
 ## Divide and Conquer
 |  |
