@@ -15,6 +15,7 @@ Try to solve leetcode
 | [0268-missing-number](https://github.com/parth-goyal-001/leetcode_Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/parth-goyal-001/leetcode_Solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/parth-goyal-001/leetcode_Solutions/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/parth-goyal-001/leetcode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 ## Hash Table
 |  |
 | ------- |
@@ -22,6 +23,7 @@ Try to solve leetcode
 | [0169-majority-element](https://github.com/parth-goyal-001/leetcode_Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/parth-goyal-001/leetcode_Solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/parth-goyal-001/leetcode_Solutions/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/parth-goyal-001/leetcode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 ## Sorting
 |  |
 | ------- |
@@ -29,6 +31,7 @@ Try to solve leetcode
 | [0169-majority-element](https://github.com/parth-goyal-001/leetcode_Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/parth-goyal-001/leetcode_Solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/parth-goyal-001/leetcode_Solutions/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/parth-goyal-001/leetcode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -41,6 +44,7 @@ Try to solve leetcode
 | [0189-rotate-array](https://github.com/parth-goyal-001/leetcode_Solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/parth-goyal-001/leetcode_Solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/parth-goyal-001/leetcode_Solutions/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/parth-goyal-001/leetcode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -59,6 +63,7 @@ Try to solve leetcode
 | ------- |
 | [0268-missing-number](https://github.com/parth-goyal-001/leetcode_Solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/parth-goyal-001/leetcode_Solutions/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/parth-goyal-001/leetcode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 ## Bit Manipulation
 |  |
 | ------- |
