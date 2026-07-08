@@ -8,6 +8,7 @@ Try to solve leetcode
 | [0001-two-sum](https://github.com/parth-goyal-001/leetcode_Solutions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/parth-goyal-001/leetcode_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/parth-goyal-001/leetcode_Solutions/tree/master/0075-sort-colors) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/parth-goyal-001/leetcode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/parth-goyal-001/leetcode_Solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/parth-goyal-001/leetcode_Solutions/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/parth-goyal-001/leetcode_Solutions/tree/master/0217-contains-duplicate) |
@@ -69,4 +70,8 @@ Try to solve leetcode
 | ------- |
 | [0268-missing-number](https://github.com/parth-goyal-001/leetcode_Solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/parth-goyal-001/leetcode_Solutions/tree/master/0287-find-the-duplicate-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/parth-goyal-001/leetcode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
