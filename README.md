@@ -7,6 +7,7 @@ Try to solve leetcode
 | ------- |
 | [0001-two-sum](https://github.com/parth-goyal-001/leetcode_Solutions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/parth-goyal-001/leetcode_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0073-set-matrix-zeroes](https://github.com/parth-goyal-001/leetcode_Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/parth-goyal-001/leetcode_Solutions/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/parth-goyal-001/leetcode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/parth-goyal-001/leetcode_Solutions/tree/master/0169-majority-element) |
@@ -21,6 +22,7 @@ Try to solve leetcode
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/parth-goyal-001/leetcode_Solutions/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/parth-goyal-001/leetcode_Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/parth-goyal-001/leetcode_Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/parth-goyal-001/leetcode_Solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/parth-goyal-001/leetcode_Solutions/tree/master/0268-missing-number) |
@@ -74,4 +76,8 @@ Try to solve leetcode
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/parth-goyal-001/leetcode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/parth-goyal-001/leetcode_Solutions/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
