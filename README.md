@@ -25,6 +25,7 @@ Try to solve leetcode
 | [0073-set-matrix-zeroes](https://github.com/parth-goyal-001/leetcode_Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/parth-goyal-001/leetcode_Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/parth-goyal-001/leetcode_Solutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/parth-goyal-001/leetcode_Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/parth-goyal-001/leetcode_Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/parth-goyal-001/leetcode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 ## Sorting
@@ -33,6 +34,7 @@ Try to solve leetcode
 | [0075-sort-colors](https://github.com/parth-goyal-001/leetcode_Solutions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/parth-goyal-001/leetcode_Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/parth-goyal-001/leetcode_Solutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/parth-goyal-001/leetcode_Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/parth-goyal-001/leetcode_Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/parth-goyal-001/leetcode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 ## Prefix Sum
@@ -80,4 +82,8 @@ Try to solve leetcode
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/parth-goyal-001/leetcode_Solutions/tree/master/0073-set-matrix-zeroes) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/parth-goyal-001/leetcode_Solutions/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
