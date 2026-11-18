@@ -18,6 +18,7 @@ Try to solve leetcode
 | [0283-move-zeroes](https://github.com/parth-goyal-001/leetcode_Solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/parth-goyal-001/leetcode_Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/parth-goyal-001/leetcode_Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0485-max-consecutive-ones](https://github.com/parth-goyal-001/leetcode_Solutions/tree/master/0485-max-consecutive-ones) |
 ## Hash Table
 |  |
 | ------- |
